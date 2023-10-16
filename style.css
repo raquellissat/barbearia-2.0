@@ -1,9 +1,11 @@
 header {
 background: #BBBBBB;
+padding:20px;
 }
 
 nav li {
 display: inline;
+margin: 0 0 0 15px;
 }
 
 nav a {
@@ -11,11 +13,13 @@ text-transform: uppercase;
 color: #000000;
 font-weight: bold;
 font-size: 22px;
+text-decoration: none:
 text-decoration: none;
 }
 
 nav {
 position :absolute;
+top: 110px
 top : 0;
 right:0;
 }
@@ -23,4 +27,16 @@ right:0;
 nav li {
 display: inline;
 margin: 0 0 0 15px;
+}
+
+.caixa {
+width: 940px;
+position: relative;
+margin: 0 auto;
+}
+
+.produtos {
+width: 940px
+margin: 0 auto;
+padding: 50px 0:
 }
